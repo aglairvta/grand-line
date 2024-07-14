@@ -36,6 +36,7 @@ Aqui é necessário permitir que abra o Hydra:
 ![permissao-abrir-hydra](/assets/imgs/hydra/image-1.png)
 
 Nesssa parte, a fonte vai ser reconhecida e clique em ```validar```.
+
 ![validar-fonte](/assets/imgs/hydra/image-2.png)
 
 Agora basta clicar em ```sicronizar```. Pronto, já possui uma fonte de sua escolha instalada, no mesmo campo é possível ver a quantidade de rapacks disponíveis nesssa fonte.
