@@ -25,7 +25,7 @@ Disponível para Windows, Linux.
 
 **Exemplo de instalação de repacks**
   
- Em [Hydra Comumunity Links](https://hydralinks.cloud/), usando a instalação atuomática:
+ Em [Hydra Comumunity Links](https://hydralinks.cloud/), usando a instalação automática:
 
 Aqui usei como exemplo a DODI e escolhi a opção ```Instalar no Hydra```.
 
