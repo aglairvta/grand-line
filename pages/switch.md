@@ -1,5 +1,5 @@
 ***
-| Switch (pt-BR) | ![snes-icon](/assets/imgs/retro/switch-icon.png) | 
+| Switch | ![snes-icon](/assets/imgs/retro/switch-icon.png) | 
 |-----------|---------------------------------|
 ***
 
