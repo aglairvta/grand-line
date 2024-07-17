@@ -42,19 +42,37 @@
 
 ☛ [Sci-hub](/pages/schiHub.md)
 
-☛ [Quadrinhos](https://baixarquadrinhos.net/)
+☛ [Quadrinhos](https://baixarquadrinhos.net/) - <mark>Use bloqueador de anúncios.</mark>
 
 ***
 **🔐 Privacidade**
 
-☛ [E-mail temporário](https://temp-mail.org)
+<mark>Ferramentas:</mark>
 
-☛ [Geradores](https://www.4devs.com.br/)
+[Use bloqueador de anúncios para acessar.](https://ublockorigin.com/)
 
-☛ [Meu e-mail está comprometido?](https://haveibeenpwned.com/)
+| Nome | O que é? | Experimente |
+|-------------|-------------|-------------|
+|temp-mail|E-mail temporário para cadastros que recebe código de confirmação.|[Acesse](https://temp-mail.org)|
+|4devs Geradores|Gerador de cpf, cep, nicks...|[Acesse](https://www.4devs.com.br/)|
+|Have i been pwned?|Valida se seu e-mail foi comprometido.|[Acesse](https://haveibeenpwned.com/)|
+|VirusTotal|Valida se arquivos/sites contém malwares.|[Acesse](https://www.virustotal.com/gui/)|
 
-☛ [VirusTotal](https://www.virustotal.com/gui/)
+<mark>Extensões:</mark>
+| Nome | O que é? | Download |
+|-------------|-------------|-------------|
+|Bitwarden|Gerenciador e gerador de senhas criptografadas.|[Download](https://bitwarden.com/download/#downloads-web-browser)|
+|Burlesco|Leia notícias sem ser assinante, burle o paywall.|[Download](https://burles.co/)|
+|Cookie-AutoDelete|Deleta cookies de um site ao fechar a aba.|[Download](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete?tab=readme-ov-file/heading-element)|
+|Decentraleyes|Protege você contra rastreamento.|[Download](https://decentraleyes.org/)|
+|Disable JavaScript|Desabilite o JS da página.|[Download](https://github.com/dpacassi/disable-javascript?tab=readme-ov-file)|
+|Don't track me Google|Bloqueia rastreadores, anúncios indesejados e coleta de dados por parte de serviços do Google.|[Download](https://github.com/Rob--W/dont-track-me-google?tab=readme-ov-file)
+|FastForward|Contona encurtadores de links.|[Download](https://fastforward.team/)| 
+|Firefox Multi-Account Containers|Separa abas do seu navegador em containers individuais.|[Download](https://addons.mozilla.org/pt-BR/firefox/addon/multi-account-containers/)|
+|NoScript|Tenha controle de todo JS que roda nos sites.|[Download](https://noscript.net/getit/)|
+|Privacy Badger|Bloqueador de rastreadores.|[Download](https://privacybadger.org/)|
 ***
+
 **🐧 Linux**
 
 ☛ [Jornada Linux](https://linuxjourney.com/)
@@ -67,3 +85,7 @@
 
 ☛ [IFRGS](https://moodle.ifrs.edu.br/course/index.php?categoryid=38)
 ***
+**❣ Extensões diversas**
+| Nome | O que é? | Download |
+|-------------|-------------|-------------|
+|Video DownloadHelper|Baixe qualquer vídeo de quase qualquer site.|[Download](https://www.downloadhelper.net/)|
