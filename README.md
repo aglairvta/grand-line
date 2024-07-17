@@ -67,7 +67,7 @@
 |Decentraleyes|Protege você contra rastreamento.|[Download](https://decentraleyes.org/)|
 |Disable JavaScript|Desabilite o JS da página.|[Download](https://github.com/dpacassi/disable-javascript?tab=readme-ov-file)|
 |Don't track me Google|Bloqueia rastreadores, anúncios indesejados e coleta de dados por parte de serviços do Google.|[Download](https://github.com/Rob--W/dont-track-me-google?tab=readme-ov-file)
-|FastForward|Contona encurtadores de links.|[Download](https://fastforward.team/)| 
+|FastForward|Contorna encurtadores de links.|[Download](https://fastforward.team/)| 
 |Firefox Multi-Account Containers|Separa abas do seu navegador em containers individuais.|[Download](https://addons.mozilla.org/pt-BR/firefox/addon/multi-account-containers/)|
 |NoScript|Tenha controle de todo JS que roda nos sites.|[Download](https://noscript.net/getit/)|
 |Privacy Badger|Bloqueador de rastreadores.|[Download](https://privacybadger.org/)|
