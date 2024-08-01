@@ -19,6 +19,8 @@
 **🎬 Streaming**
 
 ☛ [Stremio](/pages/stremio.md)
+
+☛ [Megaflix](https://megaflixapp.site/)
 ***
 **🎧 Música**
 
@@ -27,6 +29,8 @@
 ☛ [InnerTune](/pages/innertune.md)
 
 ☛ [Youtube Music](https://th-ch.github.io/youtube-music/)
+
+☛ [Spicetify](https://spicetify.app/)
 ***
 **🔒 VPN:**
 
@@ -96,4 +100,6 @@
 | Oficial | Alternativa | Download |
 |-------------|-------------|-------------|
 |Youtube [PC]|Freetube|[Download](https://freetubeapp.io/)|
-|Youtube [Mobile]|Newpipe|[Download]()|
+|Youtube [Mobile]|Newpipe|[Download](https://newpipe.net/)|
+|Notion, Evernote...|Joplin|[Download](https://joplinapp.org/download/)|
+***
