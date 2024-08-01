@@ -91,3 +91,9 @@
 | Nome | O que é? | Download |
 |-------------|-------------|-------------|
 |Video DownloadHelper|Baixe qualquer vídeo de quase qualquer site.|[Download](https://www.downloadhelper.net/)|
+***
+**🦜 Alternativas open**
+| Oficial | Alternativa | Download |
+|-------------|-------------|-------------|
+|Youtube [PC]|Freetube|[Download](https://freetubeapp.io/)|
+|Youtube [Mobile]|Newpipe|[Download]()|
