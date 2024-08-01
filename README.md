@@ -25,6 +25,8 @@
 ☛ [Spotube](/pages/spotube.md)
 
 ☛ [InnerTune](/pages/innertune.md)
+
+☛ [Youtube Music](https://th-ch.github.io/youtube-music/)
 ***
 **🔒 VPN:**
 
