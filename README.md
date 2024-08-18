@@ -20,7 +20,7 @@
 
 ☛ [Stremio](/pages/stremio.md)
 
-☛ [Megaflix](https://megaflixapp.site/)
+☛ [Megaflix](https://megaflixapp.site/) - <mark>Use bloqueador de anúncios.</mark>
 ***
 **🎧 Música**
 
