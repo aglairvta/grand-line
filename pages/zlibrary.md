@@ -8,12 +8,10 @@
 
 | Legítimos | Falsos |
 |-----------|--------|
-| [singlelogin.rs](https://singlelogin.rs/) | Z-LIB.IO |
-| [singlelogin.re](https://pt.singlelogin.re/) | Z-LIB.IS |
-| [pt.z-lib.gs](https://z-lib.gs/) | ZLIBRARY.TO |
-| [it.1lib.sk](https://it.1lib.sk/) | |
-| [es.1lib.sk](https://es.1lib.sk/) | |
-| [1lib.sk](https://1lib.sk/) | |
+| [z-lib.gs](https://z-lib.gs) | Z-LIB.IO |
+| [it.1lib.sk](https://it.1lib.sk) | Z-LIB.IS |
+| [es.1lib.sk](https://es.1lib.sk) | ZLIBRARY.TO |
+| [pt.1lib.sk](https://pt.1lib.sk) | |
 
 Acesse no tor ⇒ [zlibrary-tor](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)
 ***
