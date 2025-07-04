@@ -7,6 +7,7 @@
 |[Qbittorent](https://www.qbittorrent.org/download)|
 |[torrentsdosfilmes](https://torrentsdosfilmes.to/)|
 |[redetorrent](https://redetorrent.com/)|
+
 ## Instalação
 
 Existem vários tipos de instalação, escolha uma preferida que vai resultar no mesmo: o serviço irá rodar na porta 32400 como padrão. 
@@ -29,6 +30,6 @@ Caso tenha mais de uma temporada, gosto de organizar dessa forma:
 
 ![episodios-exemplo](/images/plex/image-3.png)
 
-### Demo
+## Demo
 
 ![demo-plex](/images/plex/image-4.png)
