@@ -17,8 +17,8 @@ Baixe a versão do seu sistema operacional, entre como convidado ou crie uma con
 
  |Recomendados|
  |-|
- |[Torrentio](https://stremio-addons.netlify.app/torrentio)|
- |[Brazuca](https://stremio-addons.netlify.app/brazuca-torrents)|
+ |[Torrentio](https://stremio-addons.com/torrentio.html)|
+ |[Brazuca](https://stremio-addons.com/brazuca-torrents.html)|
 
 ### Instalando addon
 
