@@ -111,5 +111,5 @@ Devido a uma atualização recente, os navegadores baseados em Chromium foram _n
 
 |Aplicação|Descrição|Dispositivos|
 |-|-|-|
-|[KeePassXC](https://keepassxc.org/download/#linux)|Código aberto e offline.|Windows, Linux, macOS, [Android (Não oficial)](https://www.keepassdx.com/), Extensão web.|
+|[KeePassXC](https://keepassxc.org/download/#linux)|Código aberto e offline.|Windows, Linux, macOS, [Android (não oficial)](https://www.keepassdx.com/), Extensão web.|
 |[Bitwarden](https://bitwarden.com/download/)|Código aberto|iOS, Android, Windows, Linux, macOS, Extensão web.|
