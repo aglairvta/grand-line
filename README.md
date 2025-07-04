@@ -73,12 +73,12 @@ Devido a uma atualização recente, os navegadores baseados em Chromium foram _n
 |Site|Descrição|
 |-|-|
 |[Cisco](https://www.netacad.com/)|Segurança digital.|
-|[IFRGS](https://moodle.ifrs.edu.br/course/index.php?categoryid=38)|Cursos diversos.|
+|[IFRGS](https://moodle.ifrs.edu.br/course/index.php?categoryid=38)|Diversos.|
 |[Xinyuu_bot](https://t.me/Xinyuu_bot)|Bot telegram que possui assinaturas de cursos com preço acessível.|
 |[Linux Journey](https://linuxjourney.com/)|Materiais para aprender Linux.|
 |[Guia Foca](https://www.guiafoca.org/)|Materiais para aprender Linux.|
 
-### Cibersegurança
+### CTF
 
 |Site|Descrição|
 |-|-|
