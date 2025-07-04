@@ -19,7 +19,7 @@ Gosto de escolher um diretório e separar meus conteúdos desta forma:
 
 ![diretorios-exemplo](/images/plex/image.png)
 
-Dentro eu Coloco as mídias também organizadas em diretórios:
+Dentro eu coloco as mídias também organizadas em diretórios:
 
 ![animes-exemplo](/images/plex/image-1.png)
 
