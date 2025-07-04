@@ -48,7 +48,7 @@ Devido a uma atualização recente, os navegadores baseados em Chromium foram _n
 |[Freetube](https://freetubeapp.io/#download)|Cliente do YouTube sem anúncios e de fácil instalação.|Windows, Linux, macOS.|
 |[Newpipe](https://newpipe.net/)|Cliente do YouTube sem anúncios e de fácil instalação.|Android.|
 
-> [!NOTE]
+> [!TIP]
 > Harmony Music e Newpipe estão disponíveis na loja [F-droid](https://f-droid.org/pt_BR/). É recomendado baixar pela loja para atualizações automáticas.
 
 ## 🎮 Jogos
